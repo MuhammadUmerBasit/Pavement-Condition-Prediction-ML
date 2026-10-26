@@ -1,0 +1,76 @@
+﻿Segment_ID,Highway_Section,Structural_Number_SN,AADT,IRI_in_per_mi,IRI_m_per_km,Condition_Rating
+1,Tarnol to Taxila,7.7,4133,243.3,3.84,Poor
+2,Tarnol to Taxila,7.5,4133,201.55,3.181,Poor
+3,Tarnol to Taxila,8.1,4133,159.79,2.522,Fair
+4,Tarnol to Taxila,8.8,4133,213.21,3.365,Poor
+5,Tarnol to Taxila,8.8,4133,203.51,3.212,Poor
+6,Tarnol to Taxila,7.2,4133,215.04,3.394,Poor
+7,Tarnol to Taxila,9.4,4133,126.59,1.998,Fair
+8,Tarnol to Taxila,8,4133,133.63,2.109,Fair
+9,Tarnol to Taxila,9.7,4133,309.7,4.888,Poor
+10,Tarnol to Taxila,8,4133,286.77,4.526,Poor
+11,Tarnol to Taxila,9.3,4133,252.93,3.992,Poor
+12,Tarnol to Taxila,8.4,4133,284.3,4.487,Poor
+13,Tarnol to Taxila,9.2,4133,252.3,3.982,Poor
+14,Tarnol to Taxila,8.1,4133,220.24,3.476,Poor
+15,Tarnol to Taxila,8.4,4133,226.7,3.578,Poor
+16,Tarnol to Taxila,9.7,4133,245.2,3.87,Poor
+17,Tarnol to Taxila,8.6,4133,202.44,3.195,Poor
+18,Taxila to Hassanabdal,9.4,0,230.5,3.638,Poor
+19,Taxila to Hassanabdal,8.1,6796,120.51,1.902,Fair
+20,Taxila to Hassanabdal,11.1,6796,126.91,2.003,Fair
+21,Taxila to Hassanabdal,6.3,6796,177.09,2.795,Poor
+22,Taxila to Hassanabdal,9.4,6796,245.71,3.878,Poor
+23,Taxila to Hassanabdal,8.1,6796,234.69,3.704,Poor
+24,Taxila to Hassanabdal,7.5,6796,188.94,2.982,Poor
+25,Taxila to Hassanabdal,7.1,6796,143.13,2.259,Fair
+26,Taxila to Hassanabdal,9,6796,153.46,2.422,Fair
+27,Hassanabdal to Burhan,8.4,0,166.64,2.63,Fair
+28,Hassanabdal to Burhan,7.5,2852,174.62,2.756,Poor
+29,Hassanabdal to Burhan,7.9,2852,280.18,4.422,Poor
+30,Hassanabdal to Burhan,11.2,2852,146.23,2.308,Fair
+31,Hassanabdal to Burhan,8.4,2852,164.55,2.597,Fair
+32,Hassanabdal to Burhan,7.2,2852,186.85,2.949,Poor
+33,Hassanabdal to Burhan,8.7,2852,174.37,2.752,Poor
+34,Hassanabdal to Burhan,6.7,2852,139.71,2.205,Fair
+35,Hassanabdal to Burhan,6.7,2852,144.46,2.28,Fair
+36,Hassanabdal to Burhan,9.8,2852,149.15,2.354,Fair
+37,Hassanabdal to Burhan,13.1,2852,137.17,2.165,Fair
+38,Burhan to Kamrah,7.1,0,150.23,2.371,Fair
+39,Burhan to Kamrah,8.4,934,196.23,3.097,Poor
+40,Burhan to Kamrah,10.1,934,246.28,3.887,Poor
+41,Burhan to Kamrah,7.3,934,172.09,2.716,Poor
+42,Burhan to Kamrah,6.8,934,146.62,2.314,Fair
+43,Burhan to Kamrah,7.1,934,140.66,2.22,Fair
+44,Burhan to Kamrah,8.1,934,157.58,2.487,Fair
+45,Burhan to Kamrah,9.2,934,143.38,2.263,Fair
+46,Burhan to Kamrah,8.7,934,181.84,2.87,Poor
+47,Burhan to Kamrah,7.1,934,166.07,2.621,Fair
+48,Burhan to Kamrah,8.1,934,138.89,2.192,Fair
+49,Burhan to Kamrah,10.4,934,181.97,2.872,Poor
+50,Burhan to Kamrah,8.3,934,167.27,2.64,Fair
+51,Burhan to Kamrah,8.4,934,152.32,2.404,Fair
+52,Burhan to Kamrah,7.5,934,145.28,2.293,Fair
+53,Burhan to Kamrah,9.4,934,154.09,2.432,Fair
+54,Burhan to Kamrah,9,934,190.46,3.006,Poor
+55,Burhan to Kamrah,12.1,934,165.62,2.614,Fair
+56,Burhan to Kamrah,9,934,153.33,2.42,Fair
+57,Burhan to Kamrah,9.8,934,141.04,2.226,Fair
+58,Burhan to Kamrah,7.5,934,161.06,2.542,Fair
+59,Burhan to Kamrah,8.3,934,243.87,3.849,Poor
+60,Burhan to Kamrah,7.8,934,173.04,2.731,Poor
+61,Burhan to Kamrah,6.6,934,175.76,2.774,Poor
+62,Burhan to Kamrah,6.6,934,184.82,2.917,Poor
+63,Burhan to Kamrah,7.9,934,233.35,3.683,Poor
+64,Kamrah to Attock Bridge,9.2,0,184.25,2.908,Poor
+65,Kamrah to Attock Bridge,9.7,1902,268.65,4.24,Poor
+66,Kamrah to Attock Bridge,9,1902,159.86,2.523,Fair
+67,Kamrah to Attock Bridge,8.8,1902,191.73,3.026,Poor
+68,Kamrah to Attock Bridge,7.4,1902,223.66,3.53,Poor
+69,Kamrah to Attock Bridge,8.8,1902,210.42,3.321,Poor
+70,Kamrah to Attock Bridge,6.2,1902,210.29,3.319,Poor
+71,Kamrah to Attock Bridge,6.8,1902,232.85,3.675,Poor
+72,Kamrah to Attock Bridge,6.6,1902,203.01,3.204,Poor
+73,Kamrah to Attock Bridge,12.9,1902,200.85,3.17,Poor
+74,Kamrah to Attock Bridge,7.8,1902,162.01,2.557,Fair
+75,Kamrah to Attock Bridge,7.6,1902,175.25,2.766,Poor
