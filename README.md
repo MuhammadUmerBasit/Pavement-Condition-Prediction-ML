@@ -169,8 +169,8 @@ Pavement-Condition-Prediction-ML/
 
 ## 👤 Author & Academic Attribution
 
-- **Developer & Researcher:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
-  *Civil Engineering & Infrastructure Data Science*
+- **Student / Author:** [Muhammad Umer Basit](https://github.com/MuhammadUmerBasit)  
+  *Civil Engineering Student*
 - **Course:** Transportation Engineering / Traffic Machine Learning, Semester 8
 
 ---
